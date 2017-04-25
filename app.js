@@ -29,7 +29,7 @@ window.onload = function() {
   socket.onmessage = function(event) {
     var message = event.data;
     messagesList.innerHTML += '<li class="received"><span>Received:</span>' +
-                               message + '</li>';
+                               message + ', Chorus Frogs!</li>';
   };
 
 

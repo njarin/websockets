@@ -14,7 +14,8 @@ WebSockets are a great tool for any app that needs realtime data, such as a chat
 
 Open `index.html` in this repo, then open Chrome DevTools and navigate to the Network tab. 
 
-
+![screenshot of demo with devtools](https://github.com/njarin/websockets/blob/master/ws_screenshot1.png)
+![screenshot of demo with devtools](https://github.com/njarin/websockets/blob/master/ws_screenshot2.png)
 
 ## WebSockets and Rails
 

@@ -12,14 +12,16 @@ WebSockets are a great tool for any app that needs realtime data, such as a chat
 
 ## Code Demo with DevTools
 
-Open `index.html` in this repo, then open Chrome DevTools and navigate to the Network tab. 
+Open `index.html` in this repo, then open Chrome DevTools and navigate to the Network tab. This repo contains a simple implementation of websockets. 
 
 ![screenshot of demo with devtools](https://github.com/njarin/websockets/blob/master/ws_screenshot1.png)
 ![screenshot of demo with devtools](https://github.com/njarin/websockets/blob/master/ws_screenshot2.png)
 
 ## WebSockets and Rails
 
-* [Chatty](https://action-cable-example.herokuapp.com/)
+Get a better look at an implementation of WS with this app that uses Rails 5's Action Cable: [Chatty](https://action-cable-example.herokuapp.com/). 
+
+There's a tutorial for building this [here](https://blog.heroku.com/real_time_rails_implementing_websockets_in_rails_5_with_action_cable).
 
 ## Resources
 * [A Introduction to WebSockets](http://blog.teamtreehouse.com/an-introduction-to-websockets)
